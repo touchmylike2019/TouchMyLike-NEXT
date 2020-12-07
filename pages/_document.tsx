@@ -1,6 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document'
 
-const APP_NAME = 'next-pwa example'
+const APP_NAME = 'Touchmylike'
 const APP_DESCRIPTION = 'This is an example of using next-pwa plugin'
 
 export default class extends Document {

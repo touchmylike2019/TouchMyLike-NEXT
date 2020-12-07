@@ -3,9 +3,9 @@ import Head from 'next/head'
 const Index = () => (
   <>
     <Head>
-      <title>next-pwa example</title>
+      <title>TOUCHMYLIKE</title>
     </Head>
-    <h1>Next.js + PWA = AWESOME!</h1>
+    <h1>TML Technology - Next.js + Typecript + Ghost</h1>
   </>
 )
 
