@@ -1,10 +1,11 @@
 ---
-title: 'Dynamic Routing and Static Generation'
+title: 'ทำไมต้องทำ Web blog นี้ขึ้นมา?'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+# coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: '/assets/home_tml.png'
+date: '2020-12-08'
 author:
-  name: JJ Kasper
+  name: Bestculling
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
